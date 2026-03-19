@@ -1,4 +1,4 @@
-# Lesson 1: what are AI Agents?
+# Lesson 1: What are AI Agents?
 
 ## Introduction
 
@@ -84,7 +84,7 @@ This is the language model at the center of the agent. It handles:
 - **Interpreting** the results of tool calls
 - **Generating** the final response
 
-The model you choose matters. Harder tasks (multi-step reasoning, complex code generation, nuanced decision-making) benefit from frontier models like Gemini 2.5 Pro or GPT-4o. Simpler tasks (classification, extraction, straightforward Q&A) can use lighter models like Gemini 2.0 Flash to save cost and latency.
+The model you choose matters. Harder tasks (multi-step reasoning, complex code generation, nuanced decision-making) benefit from frontier models like Gemini or Opus. Simpler tasks (classification, extraction, straightforward Q&A) can use lighter models like Gemini Flash to save cost and latency.
 
 ### 2. tools (the hands)
 
